@@ -1,1 +1,5 @@
+git clone
 git status
+git add file_name
+git commit -m   commit_msg
+git push origin main 
